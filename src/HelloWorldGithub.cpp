@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-	int variable = 0;
+	int variable = 123;
 	cout << "Hello World!" << variable << endl; // prints Hello World!!!
 	return 0;
 }
